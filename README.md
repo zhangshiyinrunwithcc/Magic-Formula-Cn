@@ -39,10 +39,10 @@
 
 `9w：170301-1703013` 
 
-- [**@fatfox抓取 tushare 的数据代码(已拿代码，待代码上传GitHub)**]()
+- [**@fatfox_抓取 tushare 的数据代码(已拿代码，待代码上传GitHub)**]()
 
-- [**@蕙蕙荐股页面批量倒入 html table(待代码上传GitHub)**]()
+- [**@蕙蕙_荐股页面批量倒入 html table(待代码上传GitHub)**]()
 
-- [**@zhangshiying利用神奇公式官方主页，编写项目的help html 简介、使用方法(待代码上传GitHub)**]()
+- [**@zhangshiying_利用神奇公式官方主页，编写项目的help html 简介、使用方法(待代码上传GitHub)**]()
 
-- [**@蕙蕙9w技术点汇总**](https://github.com/leilayanhui/Magic-Formula-Cn/issues/8)
+- [**@蕙蕙_9w技术点汇总**](https://github.com/leilayanhui/Magic-Formula-Cn/issues/8)
