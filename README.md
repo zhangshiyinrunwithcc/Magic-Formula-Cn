@@ -37,4 +37,12 @@
 
 - [**8w技术点汇总**](https://github.com/leilayanhui/Magic-Formula-Cn/issues/6)
 
+`9w：170301-1703013` 
 
+- [**抓取 tushare 的数据代码@fatfox(已拿代码，待代码上传GitHub)**]()
+
+- [**荐股页面批量倒入 html table @蕙蕙(待代码上传GitHub)**]()
+
+- [**利用神奇公式官方主页，编写项目的help html 简介、使用方法@zhangshiying(待代码上传GitHub)**]()
+
+- [**9w技术点汇总 @蕙蕙**](https://github.com/leilayanhui/Magic-Formula-Cn/issues/8)
